@@ -1,0 +1,2 @@
+# M-teor-a-sobre-los-precios-m-ximos-del-Bitcoin-como-dinero-electr-nico-funcional-byLAEV-
+Descripción (350 caracteres):  Análisis técnico avanzado sobre los límites funcionales del satoshi como unidad mínima del dinero electrónico. Explica la relación entre divisibilidad, valor máximo sostenible de Bitcoin y estándares bancarios de precisión. Presenta el modelo teórico desarrollado por LAEV para definir umbrales económicos operativos.
